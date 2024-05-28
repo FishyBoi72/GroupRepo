@@ -7,3 +7,5 @@ git commit: saves things or takes a "snapshot" of your work
 git checkout: Moves to another branch
 
 git push: pushes your local repo information to the remote repo
+
+git add: Prepares changes for the next commit
